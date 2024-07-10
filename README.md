@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://github.com/mainakkundu09/mainakkundu09/assets/100847594/ddbec399-5629-4638-a90e-37abcdd42a87" alt="banner">
+</h1>
+
+
 <h2 align="center">Hello Folks, I'm Mainak Kundu 👋</h2>
 <h2 align="center">Software Developer & Data Analyst | 5 star Ranking in C++ on HackerRank | AWS Certified Cloud Practitioner | Martial Artist | Nature Lover | Aspire to be An Influencer </h2>
 
